@@ -38,7 +38,7 @@ CREATE VIEW vwPvoData AS
     spot.Uac2 AS V7,
     spot.Temperature AS V8,
     home.NestTemp AS V9,
-    home.NestHumidty AS V10,
+    home.NestHumidity AS V10,
     home.AtticTemp AS V11,
     home.AtticFan AS V12,
     dd.PVoutput
